@@ -9,267 +9,229 @@ id: "moto-x3m",
 title: "Moto X3M",
 category: "acao",
 thumbnail: "https://img.gamedistribution.com/35523c39cf544b4d9e06eb7fcdb1a196-512x384.jpeg",
-url: "https://html5.gamemonetize.com/8h2gdp5h5t69uq3wzwvlt7z5zspkk9vh/
-/"},
+url: "https://html5.gamemonetize.com/8h2gdp5h5t69uq3wzwvlt7z5zspkk9vh"},
   {
 id: "stickman-fighter",
 title: "Stickman Fighter",
 category: "acao",
 thumbnail: "https://img.gamedistribution.com/88a0d62bc06248b4a6d960a6e6d9965b-512x384.jpeg",
-url: "https://html5.gamemonetize.com/x3m8csmnmfnyv88t7gr8os7wfhtk7nt5/
-/"},
+url: "https://html5.gamemonetize.com/x3m8csmnmfnyv88t7gr8os7wfhtk7nt5"},
   {
 id: "sniper-clash-3d",
 title: "Sniper Clash 3D",
 category: "acao",
 thumbnail: "https://img.gamedistribution.com/4d194eb1491240d99a2f7a3535a57a41-512x384.jpeg",
-url: "https://html5.gamemonetize.com/3h2dku5gh9lfwjru4r4sl2ek2azfrtck/
-/"},
+url: "https://html5.gamemonetize.com/3h2dku5gh9lfwjru4r4sl2ek2azfrtck"},
   {
 id: "mad-day-2",
 title: "Mad Day 2",
 category: "acao",
 thumbnail: "https://img.gamedistribution.com/4dc0ee1ad3e3473cb2f6d929f90a86f1-512x384.jpeg",
-url: "https://html5.gamemonetize.com/qztlg3anws33xqfhnp9knd8et35r20sa/
-/"},
+url: "https://html5.gamemonetize.com/qztlg3anws33xqfhnp9knd8et35r20sa"},
   {
 id: "ragdoll-duel",
 title: "Ragdoll Duel",
 category: "acao",
 thumbnail: "https://img.gamedistribution.com/fb0a7ea2bc4b4b6788b5a11fd6ce5d3e-512x384.jpeg",
-url: "https://html5.gamemonetize.com/j0tvuvtj2ns1t3c3jhk7gwsr7gj3qg3r/
-/"},
+url: "https://html5.gamemonetize.com/j0tvuvtj2ns1t3c3jhk7gwsr7gj3qg3r"},
   {
 id: "stickman-armed-assassin",
 title: "Stickman Armed Assassin",
 category: "acao",
 thumbnail: "https://img.gamedistribution.com/fad594bc2017495b8517f0e3ed8b5291-512x384.jpeg",
-url: "https://html5.gamemonetize.com/ovf6hz3dkd1pi48hoj8ueegfvddo8a8d/
-/"},
+url: "https://html5.gamemonetize.com/ovf6hz3dkd1pi48hoj8ueegfvddo8a8d"},
   {
 id: "soldier-legend",
 title: "Soldier Legend",
 category: "acao",
 thumbnail: "https://img.gamedistribution.com/7c94f8e5a231493aa6bd5b32eb45b6e2-512x384.jpeg",
-url: "https://html5.gamemonetize.com/p3vw94lhkmt1mfvu2bkq4d8vfsb0p5ep/
-/"},
+url: "https://html5.gamemonetize.com/p3vw94lhkmt1mfvu2bkq4d8vfsb0p5ep"},
   {
 id: "gunblood-remastered",
 title: "Gunblood Remastered",
 category: "acao",
 thumbnail: "https://img.gamedistribution.com/09a8a5b9437e43578d96764dbd8de994-512x384.jpeg",
-url: "https://html5.gamemonetize.com/gbohv3uk8f7vm93wcuxpsifzlbpkz4c5/
-/"},
+url: "https://html5.gamemonetize.com/gbohv3uk8f7vm93wcuxpsifzlbpkz4c5"},
   {
 id: "city-siege",
 title: "City Siege",
 category: "acao",
 thumbnail: "https://img.gamedistribution.com/cf68e8960b784e2e92b3a4715cd3d7f3-512x384.jpeg",
-url: "https://html5.gamemonetize.com/az7jjw0zgd0yckro20l2s4sbn29rk5ep/
-/"},
+url: "https://html5.gamemonetize.com/az7jjw0zgd0yckro20l2s4sbn29rk5ep"},
   {
 id: "super-buddy-kick",
 title: "Super Buddy Kick",
 category: "acao",
 thumbnail: "https://img.gamedistribution.com/731de4f4293b4f91b6d44124b3dcb32f-512x384.jpeg",
-url: "https://html5.gamemonetize.com/iqtdxkh1xfk4db1r4gmy2smz8pgoddbk/
-/"},
+url: "https://html5.gamemonetize.com/iqtdxkh1xfk4db1r4gmy2smz8pgoddbk"},
   {
 id: "zombie-mission-4",
 title: "Zombie Mission 4",
 category: "acao",
 thumbnail: "https://img.gamedistribution.com/fd44d3255b31495bb50cc45a276f8b96-512x384.jpeg",
-url: "https://html5.gamemonetize.com/r21acjywyk8z8apcb9mp5g0ehqxw3z1v/
-/"},
+url: "https://html5.gamemonetize.com/r21acjywyk8z8apcb9mp5g0ehqxw3z1v"},
   {
 id: "cyber-rage:-retribution",
 title: "Cyber Rage: Retribution",
 category: "acao",
 thumbnail: "https://img.gamedistribution.com/ca27882b6611407ba6ab177fef8c4ca6-512x384.jpeg",
-url: "https://html5.gamemonetize.com/qwe5rj3hn1b9fn5s80i77e3cg9m94ojm/
-/"},
+url: "https://html5.gamemonetize.com/qwe5rj3hn1b9fn5s80i77e3cg9m94ojm"},
   {
 id: "fireboy-and-watergirl",
 title: "Fireboy and Watergirl",
 category: "acao",
 thumbnail: "https://img.gamedistribution.com/f1d13a62a9284ee3a568002f122f2b32-512x384.jpeg",
-url: "https://html5.gamemonetize.com/gqhdmbv8en7fe20il3mmt7flzll0qzy1/
-/"},
+url: "https://html5.gamemonetize.com/gqhdmbv8en7fe20il3mmt7flzll0qzy1"},
   {
 id: "temple-run-2",
 title: "Temple Run 2",
 category: "acao",
 thumbnail: "https://img.gamedistribution.com/8717d285a02d4635b1aa3e1f12d682d5-512x384.jpeg",
-url: "https://html5.gamemonetize.com/zsfwdm0a3sq9nm4hl9llot6v7z2iwmiv/
-/"},
+url: "https://html5.gamemonetize.com/zsfwdm0a3sq9nm4hl9llot6v7z2iwmiv"},
   {
 id: "vex-6",
 title: "Vex 6",
 category: "acao",
 thumbnail: "https://img.gamedistribution.com/abbe1c5945dc4b1a9634917720b1dc13-512x384.jpeg",
-url: "https://html5.gamemonetize.com/bc99jxqv6txmq2lfv46y0fhhy8vt52uo/
-/"},
+url: "https://html5.gamemonetize.com/bc99jxqv6txmq2lfv46y0fhhy8vt52uo"},
   {
 id: "dino-squad-adventure",
 title: "Dino Squad Adventure",
 category: "acao",
 thumbnail: "https://img.gamedistribution.com/70cc92ef35c9442486e20f85b22e2d33-512x384.jpeg",
-url: "https://html5.gamemonetize.com/qmkx8jj02vj6fpg0dknyg2elspw4ok27/
-/"},
+url: "https://html5.gamemonetize.com/qmkx8jj02vj6fpg0dknyg2elspw4ok27"},
   {
 id: "jetpack-joyride",
 title: "Jetpack Joyride",
 category: "acao",
 thumbnail: "https://img.gamedistribution.com/3477bfc1121f4dfb8788d50f24f84e6a-512x384.jpeg",
-url: "https://html5.gamemonetize.com/vv6k6ow8a4u5smmqhvgs9ds5z9nkxx42/
-/"},
+url: "https://html5.gamemonetize.com/vv6k6ow8a4u5smmqhvgs9ds5z9nkxx42"},
   {
 id: "hobo-prison-brawl",
 title: "Hobo Prison Brawl",
 category: "acao",
 thumbnail: "https://img.gamedistribution.com/750b3e02b7e849a3b38bc01ae6b4012f-512x384.jpeg",
-url: "https://html5.gamemonetize.com/jv4i8p75osxh6kqj20n51q1nltb0izv5/
-/"},
+url: "https://html5.gamemonetize.com/jv4i8p75osxh6kqj20n51q1nltb0izv5"},
   {
 id: "combat-strike-2",
 title: "Combat Strike 2",
 category: "acao",
 thumbnail: "https://img.gamedistribution.com/26f7a9a6efca4993a83d53cc79a83596-512x384.jpeg",
-url: "https://html5.gamemonetize.com/f2y0ds7t6z2gf6qr1nhqxuhhszr6amij/
-/"},
+url: "https://html5.gamemonetize.com/f2y0ds7t6z2gf6qr1nhqxuhhszr6amij"},
   {
 id: "iron-snout",
 title: "Iron Snout",
 category: "acao",
 thumbnail: "https://img.gamedistribution.com/14e9b4f1a10540f28e86044520634ba4-512x384.jpeg",
-url: "https://html5.gamemonetize.com/c9q26zdd37lxnlzfw7rdv9yq2p54pzb0/
-/"},
+url: "https://html5.gamemonetize.com/c9q26zdd37lxnlzfw7rdv9yq2p54pzb0"},
   {
 id: "super-crime-steel-war-hero",
 title: "Super Crime Steel War Hero",
 category: "acao",
 thumbnail: "https://img.gamedistribution.com/af1a02b3fcf04813a32c3946e4ea7268-512x384.jpeg",
-url: "https://html5.gamemonetize.com/fjxywh1r7h07ot7d4nl1fgj2p2qdvlnv/
-/"},
+url: "https://html5.gamemonetize.com/fjxywh1r7h07ot7d4nl1fgj2p2qdvlnv"},
   {
 id: "street-fight-match",
 title: "Street Fight Match",
 category: "acao",
 thumbnail: "https://img.gamedistribution.com/7c0193326df8497994b6e42889a5df50-512x384.jpeg",
-url: "https://html5.gamemonetize.com/v5s1rnlw2jhe69qb7pc4b23spxgmhwpi/
-/"},
+url: "https://html5.gamemonetize.com/v5s1rnlw2jhe69qb7pc4b23spxgmhwpi"},
   {
 id: "mortal-cage-fighter",
 title: "Mortal Cage Fighter",
 category: "acao",
 thumbnail: "https://img.gamedistribution.com/ea7cb126d2bb48a78e34b48e7fa17f4f-512x384.jpeg",
-url: "https://html5.gamemonetize.com/l9hy1mz5xzt1hd4n3wh75bwmd2js5gxv/
-/"},
+url: "https://html5.gamemonetize.com/l9hy1mz5xzt1hd4n3wh75bwmd2js5gxv"},
   {
 id: "dragon-simulator",
 title: "Dragon Simulator",
 category: "acao",
 thumbnail: "https://img.gamedistribution.com/8ecb7edda35e4cbdb33762e82e887c7d-512x384.jpeg",
-url: "https://html5.gamemonetize.com/f8l6kcnrco3d5dmu8p7tlgmldphbtb40/
-/"},
+url: "https://html5.gamemonetize.com/f8l6kcnrco3d5dmu8p7tlgmldphbtb40"},
   {
 id: "gladiator-combat-arena",
 title: "Gladiator Combat Arena",
 category: "acao",
 thumbnail: "https://img.gamedistribution.com/f9d63d6fd94d4ccba43d197b0933c3e7-512x384.jpeg",
-url: "https://html5.gamemonetize.com/o9hyq6rc42r7a5qrmd37xvw9k0rbcv13/
-/"},
+url: "https://html5.gamemonetize.com/o9hyq6rc42r7a5qrmd37xvw9k0rbcv13"},
   {
 id: "zombie-derby-2",
 title: "Zombie Derby 2",
 category: "acao",
 thumbnail: "https://img.gamedistribution.com/f73dd1fce8804995979d6ae20ae740f0-512x384.jpeg",
-url: "https://html5.gamemonetize.com/j0bf8q5lz46a5bka7nphznh5ey5xnl4p/
-/"},
+url: "https://html5.gamemonetize.com/j0bf8q5lz46a5bka7nphznh5ey5xnl4p"},
   {
 id: "ninja-clash-heroes",
 title: "Ninja Clash Heroes",
 category: "acao",
 thumbnail: "https://img.gamedistribution.com/c5bb0cf6370646f28cf1a7dfdb84752a-512x384.jpeg",
-url: "https://html5.gamemonetize.com/j4dk9v9ag9p6dnqzmh4se2z3u3aymkln/
-/"},
+url: "https://html5.gamemonetize.com/j4dk9v9ag9p6dnqzmh4se2z3u3aymkln"},
   {
 id: "masked-forces",
 title: "Masked Forces",
 category: "acao",
 thumbnail: "https://img.gamedistribution.com/2453c013c09e432998f8e2527cb8867d-512x384.jpeg",
-url: "https://html5.gamemonetize.com/62gj2sgqn9y8xh7g0z1izofzfq8zn0kn/
-/"},
+url: "https://html5.gamemonetize.com/62gj2sgqn9y8xh7g0z1izofzfq8zn0kn"},
   {
 id: "pixel-gun-apocalypse-6",
 title: "Pixel Gun Apocalypse 6",
 category: "acao",
 thumbnail: "https://img.gamedistribution.com/2dc5e77425d14867800391a032b8f6d7-512x384.jpeg",
-url: "https://html5.gamemonetize.com/c7cn8ubpz2axuwqr9ikfszmku6hlu6zx/
-/"},
+url: "https://html5.gamemonetize.com/c7cn8ubpz2axuwqr9ikfszmku6hlu6zx"},
   {
 id: "arena-shooter",
 title: "Arena Shooter",
 category: "acao",
 thumbnail: "https://img.gamedistribution.com/8e47653b5a134f55b80a9a8e2d169f20-512x384.jpeg",
-url: "https://html5.gamemonetize.com/lby69a81jrk9leplk0vm3b8y5vmp3y9x/
-/"},
+url: "https://html5.gamemonetize.com/lby69a81jrk9leplk0vm3b8y5vmp3y9x"},
   {
 id: "zombies-can"t-jump-2",
 title: "Zombies Can"t Jump 2",
 category: "acao",
 thumbnail: "https://img.gamedistribution.com/3ac18a28d21b4b80b7b8b8414b3386cb-512x384.jpeg",
-url: "https://html5.gamemonetize.com/x8m0keph9kwh79a8v3lzzm1ihr7l0u3s/
-/"},
+url: "https://html5.gamemonetize.com/x8m0keph9kwh79a8v3lzzm1ihr7l0u3s"},
   {
 id: "battle-arena",
 title: "Battle Arena",
 category: "acao",
 thumbnail: "https://img.gamedistribution.com/32d9303e55a04e34838f25e9e6886a70-512x384.jpeg",
-url: "https://html5.gamemonetize.com/bm0u4v8ivfpqlhglkw1z48y5m4zkb69g/
-/"},
+url: "https://html5.gamemonetize.com/bm0u4v8ivfpqlhglkw1z48y5m4zkb69g"},
   {
 id: "airport-clash-3d",
 title: "Airport Clash 3D",
 category: "acao",
 thumbnail: "https://img.gamedistribution.com/7ab47b41a2574b2d8bbdbdf77e6b216f-512x384.jpeg",
-url: "https://html5.gamemonetize.com/50m6yzqz71ss4u2hzl11gcmwdcv7fq1e/
-/"},
+url: "https://html5.gamemonetize.com/50m6yzqz71ss4u2hzl11gcmwdcv7fq1e"},
   {
 id: "combat-pixel-arena-3d",
 title: "Combat Pixel Arena 3D",
 category: "acao",
 thumbnail: "https://img.gamedistribution.com/b1014c384d5b44bb9a29a9c40b1b4cc6-512x384.jpeg",
-url: "https://html5.gamemonetize.com/v6wpk5o06dgn7v77qqaq7o0xzw7gy9h1/
-/"},
+url: "https://html5.gamemonetize.com/v6wpk5o06dgn7v77qqaq7o0xzw7gy9h1"},
   {
 id: "wild-west-clash",
 title: "Wild West Clash",
 category: "acao",
 thumbnail: "https://img.gamedistribution.com/9eae30be296b41d6b1ff8a5931299c1e-512x384.jpeg",
-url: "https://html5.gamemonetize.com/q10mcsuzt9ub1f5h2jkakvu3chb4vnpq/
-/"},
+url: "https://html5.gamemonetize.com/q10mcsuzt9ub1f5h2jkakvu3chb4vnpq"},
   {
 id: "tank-defender",
 title: "Tank Defender",
 category: "acao",
 thumbnail: "https://img.gamedistribution.com/92f3f5b6c3e64b96b31ddf7c630f7b7d-512x384.jpeg",
-url: "https://html5.gamemonetize.com/v81z8d2fd5ft1k1m6dnpit7s3hftyy5o/
-/"},
+url: "https://html5.gamemonetize.com/v81z8d2fd5ft1k1m6dnpit7s3hftyy5o"},
   {
 id: "pixel-warfare-4",
 title: "Pixel Warfare 4",
 category: "acao",
 thumbnail: "https://img.gamedistribution.com/5f3032adfa024b9297df8f60f7db5bc0-512x384.jpeg",
-url: "https://html5.gamemonetize.com/l9q3kgflqwsveuz6xv1x5obzp8c9y41b/
-/"},
+url: "https://html5.gamemonetize.com/l9q3kgflqwsveuz6xv1x5obzp8c9y41b"},
   {
 id: "stickman-shooter-2",
 title: "Stickman Shooter 2",
 category: "acao",
 thumbnail: "https://img.gamedistribution.com/94d0b88f3c7249ffad7f25d32c41a48e-512x384.jpeg",
-url: "https://html5.gamemonetize.com/p6p6taz8fr3bgufbfw0k0n7ul8qsrbz7/
-/"},
+url: "https://html5.gamemonetize.com/p6p6taz8fr3bgufbfw0k0n7ul8qsrbz7"},
   {
 id: "deads-on-the-road",
 title: "Deads on the Road",
